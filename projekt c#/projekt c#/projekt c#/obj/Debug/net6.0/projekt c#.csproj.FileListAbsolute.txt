@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\bin\Debug\net6.0\projekt c#.exe
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\bin\Debug\net6.0\projekt c#.deps.json
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\bin\Debug\net6.0\projekt c#.runtimeconfig.json
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\bin\Debug\net6.0\projekt c#.dll
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\bin\Debug\net6.0\projekt c#.pdb
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.AssemblyInfo.cs
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.dll
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\refint\projekt c#.dll
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.pdb
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\projekt c#.genruntimeconfig.cache
+C:\Users\Dell\Desktop\projekt c#\projekt c#\projekt c#\obj\Debug\net6.0\ref\projekt c#.dll
